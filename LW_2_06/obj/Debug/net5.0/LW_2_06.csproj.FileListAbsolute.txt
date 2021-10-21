@@ -1,0 +1,16 @@
+D:\University\2 year\OOP\LW_2_06\LW_2_06\bin\Debug\net5.0\LW_2_06.exe
+D:\University\2 year\OOP\LW_2_06\LW_2_06\bin\Debug\net5.0\LW_2_06.deps.json
+D:\University\2 year\OOP\LW_2_06\LW_2_06\bin\Debug\net5.0\LW_2_06.runtimeconfig.json
+D:\University\2 year\OOP\LW_2_06\LW_2_06\bin\Debug\net5.0\LW_2_06.runtimeconfig.dev.json
+D:\University\2 year\OOP\LW_2_06\LW_2_06\bin\Debug\net5.0\LW_2_06.dll
+D:\University\2 year\OOP\LW_2_06\LW_2_06\bin\Debug\net5.0\ref\LW_2_06.dll
+D:\University\2 year\OOP\LW_2_06\LW_2_06\bin\Debug\net5.0\LW_2_06.pdb
+D:\University\2 year\OOP\LW_2_06\LW_2_06\obj\Debug\net5.0\LW_2_06.csproj.AssemblyReference.cache
+D:\University\2 year\OOP\LW_2_06\LW_2_06\obj\Debug\net5.0\LW_2_06.GeneratedMSBuildEditorConfig.editorconfig
+D:\University\2 year\OOP\LW_2_06\LW_2_06\obj\Debug\net5.0\LW_2_06.AssemblyInfoInputs.cache
+D:\University\2 year\OOP\LW_2_06\LW_2_06\obj\Debug\net5.0\LW_2_06.AssemblyInfo.cs
+D:\University\2 year\OOP\LW_2_06\LW_2_06\obj\Debug\net5.0\LW_2_06.csproj.CoreCompileInputs.cache
+D:\University\2 year\OOP\LW_2_06\LW_2_06\obj\Debug\net5.0\LW_2_06.dll
+D:\University\2 year\OOP\LW_2_06\LW_2_06\obj\Debug\net5.0\ref\LW_2_06.dll
+D:\University\2 year\OOP\LW_2_06\LW_2_06\obj\Debug\net5.0\LW_2_06.pdb
+D:\University\2 year\OOP\LW_2_06\LW_2_06\obj\Debug\net5.0\LW_2_06.genruntimeconfig.cache

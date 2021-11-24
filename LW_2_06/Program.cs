@@ -140,6 +140,7 @@ namespace LW_2_06
                         }
                     }
                 }
+                i++;
                 // delete
                 if (i >= 0)
                 {

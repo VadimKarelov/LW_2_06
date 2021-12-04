@@ -142,7 +142,7 @@ namespace LW_2_06
                 }
                 i++;
                 // delete
-                if (i >= 0)
+                if (i >= 0 && n >= 3)
                 {
                     var t = array.ToList();
                     t.RemoveAt(i);
